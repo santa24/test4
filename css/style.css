@@ -1,0 +1,22 @@
+body{
+    margin:0;
+    padding:0;
+}
+.square{
+    float:left;
+    display:inline-block;
+    width:100px;
+    height:100px;
+}
+.color-r{
+    background:red;
+}
+.color-g{
+    background:green;
+}
+.color-b{
+    background:blue;
+}
+.clearfix{
+    clear:both;
+}
