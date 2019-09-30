@@ -20,3 +20,8 @@ body{
 .clearfix{
     clear:both;
 }
+
+footer{
+    color:white;
+    background:black;
+}
