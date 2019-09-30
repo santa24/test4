@@ -13,4 +13,10 @@ B_Square.addEventListener('click',function(){
     alert("B");
 },false);
 
+/*
+    test comment
+
+    test test
+*/
+
 
